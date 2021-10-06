@@ -1,4 +1,4 @@
-![MFE](https://pt-starimg.didistatic.com/static/starimg/img/Nyu6dmPTWT1606470872235.jpg)
+<!-- ![MFE](https://pt-starimg.didistatic.com/static/starimg/img/Nyu6dmPTWT1606470872235.jpg)
 
 👋 Hi，我们来自滴滴金融泛前端， 
 
@@ -8,4 +8,4 @@
 
 如果，你也和我们一样，关注新技术、喜欢挑战并乐于分享。快来吧，我们在等你！
 
-🍭 [热招岗位](https://s.didi.cn/y8GA2)    
+🍭 [热招岗位](https://s.didi.cn/y8GA2)     -->
