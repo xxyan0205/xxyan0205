@@ -9,3 +9,5 @@
 如果，你也和我们一样，关注新技术、喜欢挑战并乐于分享。快来吧，我们在等你！
 
 🍭 [热招岗位](https://s.didi.cn/y8GA2)     -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xxyan0205&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true" />
