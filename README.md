@@ -10,4 +10,22 @@
 
 🍭 [热招岗位](https://s.didi.cn/y8GA2)     -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xxyan0205&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true" />
+### 👨‍💻
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=xxyan0205&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&hide=stars" />
+</div>
+<br>
+
+### 💻 🍿
+<div>
+  <a href="https://didi.github.io/mand-mobile" target="_blank">
+    <img src="https://pt-starimg.didistatic.com/static/starimg/img/BSHOVw2pyT1620726744938.png" width="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://mand-mobile.github.io/mand-mobile-next/zh-CN/" target="_blank">
+    <img src="https://pt-starimg.didistatic.com/static/starimg/img/ySOsAunfGm1610683661213.png" width="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://mand-mobile.github.io/palette/#/home" target="_blank">
+    <img src="https://manhattan.didistatic.com/static/manhattan/do1_KC5q8Qqsz8BnUPAsJY5i" width="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  
+</div>
